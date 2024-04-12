@@ -1,6 +1,6 @@
 Source: ainyava-gnome
 Maintainer: Hamed Mahmoudkhnai <ainyava@gmail.com>
-Standards-Version: 0.0.1
+Standards-Version: 0.0.2
 Build-Depends: debhelper-compat (=10)
 
 Package: ainyava-gnome
